@@ -830,10 +830,7 @@ body {
   }
 
   .brand-img.small {
-    position: static;
-    width: 60%;
-    height: 200px;
-    margin: 30px auto 0;
+    display: none;
   }
 }
 
