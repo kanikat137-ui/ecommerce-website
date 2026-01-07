@@ -471,7 +471,8 @@ body {
   }
 
   .editorial-wrapper {
-    grid-template-columns: 1fr;
+    display:block;
+   
   }
 }
 
@@ -1133,6 +1134,7 @@ body {
     width: 80px;
   }
 }
+
 
 
 
