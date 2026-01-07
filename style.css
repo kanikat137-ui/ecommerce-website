@@ -474,6 +474,9 @@ body {
     display:block;
    
   }
+  .editorial-content{
+    padding:60px 0 0 0;
+  }
 }
 
 @media (max-width: 600px) {
@@ -1134,6 +1137,7 @@ body {
     width: 80px;
   }
 }
+
 
 
 
